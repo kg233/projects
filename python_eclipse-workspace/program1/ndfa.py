@@ -1,4 +1,4 @@
-# Submitter: kuixir(Ren, Kuixi)
+
 import goody
 from collections import defaultdict
 file = open('ndfaendin01.txt')

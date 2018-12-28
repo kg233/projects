@@ -1,4 +1,4 @@
-# Kuixi Ren 43838927
+
 # This file creates the classes for the outputs
 
 import api_proc

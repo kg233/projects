@@ -1,4 +1,4 @@
-# Submitter: kuixir(Ren, Kuixi)
+
 import re, traceback, keyword
 
 def pnamedtuple(type_name, field_names, mutable = False):

@@ -1,4 +1,4 @@
-# Submitter: kuixir(Ren, Kuixi)
+
 # from goody import type_as_str
 import inspect
 

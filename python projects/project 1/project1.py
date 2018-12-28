@@ -1,4 +1,4 @@
-## Chenqian Cao 93485665 and Kuixi Ren 43838927 ICS 32
+
 
 
 from pathlib import Path

@@ -1,4 +1,4 @@
-# Submitter: kuixir(Ren, Kuixi)
+
 import goody
 
 def read_fa(file : open) -> {str:{str:str}}:

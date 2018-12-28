@@ -1,4 +1,4 @@
-# Submitter: kuixir(Ren, Kuixi)
+
 import goody
 from goody import irange
 import prompt

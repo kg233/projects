@@ -1,4 +1,4 @@
-## Kuixi Ren 43838927
+
 
 ##game over
 class GameOverError(Exception):

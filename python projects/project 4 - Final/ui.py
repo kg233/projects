@@ -1,4 +1,4 @@
-## Kuixi Ren 43838927
+
 import mechanics as m
 
 def run():

@@ -1,4 +1,4 @@
-# Submitter: kuixir(Ren, Kuixi)
+
 import goody
 import prompt
 from collections import defaultdict
