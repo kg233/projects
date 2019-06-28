@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/AVLSet.hpp
+functional
+-
+Set.hpp
+../core/Set.hpp
+memory
+-
+algorithm
+-
+
+../provided/Set.hpp
+
+../provided/SpellCheckShell.hpp
+string
+-
+
+/home/ics46/projects/proj3/app/main.cpp
+iostream
+-
+SpellCheckShell.hpp
+/home/ics46/projects/proj3/app/SpellCheckShell.hpp
+AVLSet.hpp
+/home/ics46/projects/proj3/app/AVLSet.hpp
+
