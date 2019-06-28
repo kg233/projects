@@ -1,7 +1,8 @@
 **project 1: a maze solver & a maze generator**
-         * a maze generator that uses a recursive, depth-first algorithm to randomly generate a perfect maze of arbitrary size
-         * a maze solver that uses a recursive, depth-first algorithm to traverse and solve a maze of arbitrary size, with the solution extending from the maze's starting cell to its ending cell without crossing any walls.
-         * key files: core/msolver.cpp & core/mmaker.cpp
+
+* a maze generator that uses a recursive, depth-first algorithm to randomly generate a perfect maze of arbitrary size
+* a maze solver that uses a recursive, depth-first algorithm to traverse and solve a maze of arbitrary size, with the solution extending from the maze's starting cell to its ending cell without crossing any walls.
+* key files: core/msolver.cpp & core/mmaker.cpp
          
 **project 2: othello game AI**
         * an AI that is capable of choosing moves in an Othello game, by using the recursive, search-tree-based algorithm described
